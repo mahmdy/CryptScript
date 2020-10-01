@@ -9,4 +9,5 @@ $https://github.com/mahmdy/CryptScript
 $cd CryptScript
 $python my_crypt_script_v2.py
 ```
-Enjoy
+Hope you enjoy it :grinning:	
+
