@@ -4,7 +4,7 @@ this is my 1st python caesar and vigenere cyphers encryption and decryption scri
 
 ##usage:
 
-``
+```
 $https://github.com/mahmdy/CryptScript
 $cd CryptScript
 $python my_crypt_script_v2.py
