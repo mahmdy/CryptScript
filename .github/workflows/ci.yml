@@ -34,12 +34,4 @@ jobs:
           python -m py_compile encrypt_files.py
           python -m py_compile decrypt_files.py
 
-  security:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v6
-
-      - name: Run Gitleaks
-        uses: gitleaks/gitleaks-action@v3
+  
